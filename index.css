@@ -1,0 +1,129 @@
+body {
+    background-color: #008299;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: #000000;
+
+}
+
+header { 
+    color: #5767c5;
+    text-align: center;
+    background-color: #000000;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #01970d;
+}
+
+header:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+footer {
+    color: #ff8800;
+    text-align: center;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #ff0000;
+    background-color: #8b008b;
+}
+
+footer:hover {
+    color: #000000;
+    background-color: #ffffff;
+}   
+
+table { 
+    background-color: #043e428a;
+    width: 100%;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    border-color:#000000;
+    border: #000000;
+    border-style: solid; 
+}
+
+td {
+    width: max-content;
+    text-align: center;
+    align-items: center;
+    border: #000000;
+    border-style: solid;
+    border-color: #000000;
+    align-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    width:fit-content;
+}
+
+p, :hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+tr :hover {
+    width: fit-content;
+    background-color:#696969;
+    color: #011794;
+    border-color: #ff8800;
+    border-style: groove;
+}
+
+hr {
+    color: darkred;
+    border-bottom: #000000;
+    border-style: outset;
+}
+
+#Alpha  { 
+    color:#ff8800;
+    background-color: #1100ff;
+}
+
+#Bravo {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+#Charlie {
+    color: #a52a2a;
+    background-color: #003764;
+}
+
+#Delta { 
+    color: #7fff00;
+    background-color: #8b008b;
+}
+
+#Echo { 
+    color: #011794;
+    background-color: #ff8800;
+}
+
+#Foxtrot {
+    color: #01970d;
+    background-color: #023e8d;
+}
+
+#Golf {
+    color: #037b99;
+    background-color: #a2d21e;
+}
+
+#Hotel { 
+    color: #bdb76b;
+    background-color: #726100;
+}
+
+ 
+
+
+
+     
